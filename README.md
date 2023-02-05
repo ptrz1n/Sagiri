@@ -1,2 +1,1 @@
-# Sagiri
-Informations of Sagiri
+# Privacy Policy
